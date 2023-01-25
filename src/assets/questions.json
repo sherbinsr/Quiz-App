@@ -1,0 +1,452 @@
+{
+    "questions": [{
+            "questionText": "Which of the following operator is used for dynamic memory allocation ?",
+            "options": [{
+                    "text": "new",
+                    "correct": true
+                },
+                {
+                    "text": "*"
+                },
+                {
+                    "text": "!"
+                },
+                {
+                    "text": "&"
+                }
+            ]
+        },
+        {
+            "questionText": "Identify the type of inheritance that has two base classes and one derived class.",
+            "options": [{
+                    "text": "hybrid inheritance"
+                },
+                {
+                    "text": "Hierarchical inheritance"
+                },
+                {
+                    "text": "Multi level inheritance"
+                },
+                {
+                    "text": "Multiple inheritance",
+                    "correct": true
+                }
+            ]
+        },
+        
+        {
+            "questionText": "Which of the following data is represented by Boolean data type in JavaScript ?",
+            "options": [{
+                    "text": "TRUE"
+                },
+                {
+                    "text": "true",
+                    "correct": true
+                },
+                {
+                    "text": "True"
+                },
+                {
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "questionText": "The ability of a message or data to be processed in more than one form is called",
+            "options": [{
+                    "text": "Encapsulation"
+                },
+                {
+                    "text": "Polymorphism",
+                    "correct": true
+                },
+                {
+                    "text": "Inheritance"
+                },
+                {
+                    "text": "Data Abstraction"
+                }
+            ]
+        },
+        {
+            "questionText": "Name the data structure that follows FIFO principle.",
+            "options": [{
+                    "text": "Queue",
+                    "correct": true
+                },
+                {
+                    "text": "Stack"
+                },
+                {
+                    "text": "Array"
+                },
+                {
+                    "text": "LinkedList"
+                }
+            ]
+        },
+        {
+            "questionText": "Antivirus software is a/an",
+            "options": [{
+                    "text": "Operating system"
+                },
+                {
+                    "text": "Application  software"
+                },
+                {
+                    "text": "Disk  Defragmenter"
+                },
+                {
+                    "text": "utility software",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "which phase in programming contains preparation of user, system manual and writing comments in program?",
+            "options": [{
+                    "text": "Problem identification"
+                },
+                {
+                    "text": "Documentation",
+                    "correct": true
+                },
+                {
+                    "text": "Translation "
+                },
+                {
+                    "text": "Debugging"
+                }
+            ]
+        },
+        {
+            "questionText": "Different websites are stored in a single web server and they share resources is called",
+            "options": [{
+                    "text": "Shared hosting",
+                    "correct": true
+                },
+                {
+                    "text": "Virtual Private Server "
+                },
+                {
+                    "text": "Dedicated hosting"
+                },
+                {
+                    "text": "None of these"
+                }
+            ]
+        },
+        {
+            "questionText": "The selection of web hosting type depends on",
+            "options": [{
+                    "text": "All of these",
+                    "correct": true
+                },
+                {
+                    "text": "amount of storage space"
+                },
+                {
+                    "text": "number of expected visitors"
+                },
+                {
+                    "text": "support of programming languages"
+                }
+            ]
+        
+        },
+        {
+            "questionText": "What  is the service of providing storage space in a web server for the files ?",
+            "options": [{
+                    "text": "Web application"
+                    
+                },
+                {
+                    "text": "Web Server"
+                },
+                {
+                    "text": "Web Sites"
+                },
+                {
+                    "text": "Web hosting",
+                    "correct": true
+                }
+            ]
+           
+        },
+        {
+            "questionText": "The domain name is connected to the IP address of the server through",
+            "options": [{
+                    "text": "A record",
+                    "correct": true
+                },
+                {
+                    "text": "Programs "
+                },
+                {
+                    "text": "DNS"
+                },
+                {
+                    "text": "B record"
+                }
+            ]
+        
+        },
+        {
+            "questionText": " ______ is used to transfer files from one computer to another on the Internet*",
+            "options": [{
+                    "text": "HTTP"
+                 
+                },
+                {
+                    "text": "IP "
+                },
+                {
+                    "text": "FTP",
+                    "correct": true
+                },
+                {
+                    "text": "SMTP"
+                }
+            ]
+        
+        },
+        {
+            "questionText": "The web server is not shared with any other website is called",
+            "options": [{
+                    "text": "Virtual Private Server"
+                    
+                },
+                {
+                    "text": "Shared hosting "
+                },
+                {
+                    "text": "DNS"
+                },
+                {
+                    "text": "Dedicated hosting",
+                    "correct": true
+                }
+            ]
+        
+        },{
+            "questionText": "A  _____ is a physical server that is virtually partitioned into several servers",
+            "options": [{
+                    "text": "Dedicated  hosting"
+                    
+                },
+                {
+                    "text": "Virtual Private Server  ",
+                    "correct": true
+                },
+                {
+                    "text": "Shared hosting"
+                },
+                {
+                    "text": "None of these"
+                }
+            ]
+        
+        },{
+            "questionText": ".  _______ software  is used to transfer files from our computer to the remote server computer",
+            "options": [{
+                    "text": "HTTP"
+                   
+                },
+                {
+                    "text": "FTPclient",
+                    "correct": true
+                },
+                {
+                    "text": "SMTP"
+                },
+                {
+                    "text": "FTP"
+                }
+            ]
+        
+        },{
+            "questionText": "Pick odd one out*",
+            "options": [{
+                    "text": "WordPress",
+                    "correct": true
+                },
+                {
+                    "text": "CuteFTP "
+                },
+                {
+                    "text": "FileZilla"
+                },
+                {
+                    "text": "SmartFTP"
+                }
+            ]
+        
+        },{
+            "questionText": "VPS is*",
+            "options": [{
+                    "text": "Virtual Premium Service"
+                   
+                },
+                {
+                    "text": "Virtual Pattern Service "
+                },
+                {
+                    "text": "Virtual Private Server",
+                    "correct": true
+                },
+                {
+                    "text": "Virtual Private Service"
+                }
+            ]
+        
+        },{
+            "questionText": "_______ provides an easy way to design and manage attractive websites",
+            "options": [{
+                    "text": "CMS",
+                    "correct": true
+                },
+                {
+                    "text": "SMS "
+                },
+                {
+                    "text": "WHIOS"
+                },
+                {
+                    "text": "css"
+                }
+            ]
+        
+        },{
+            "questionText": "Expand URL",
+            "options": [{
+                    "text": "Uniform Remote Location"
+                  
+                },
+                {
+                    "text": "Used Resource Locator "
+                },
+                {
+                    "text": "Uniform Resource Locator",
+                    "correct": true
+                },
+                {
+                    "text": "Uniform Remote Locator"
+                }
+            ]
+        
+        },
+        {
+            "questionText": ". ________  is the custom of building a website suitable to work on every device and every screen size",
+            "options": [{
+                    "text": "Responsive Web Design",
+                    "correct": true
+                },
+                {
+                    "text": "Content Management System "
+                },
+                {
+                    "text": "FTP client software"
+                },
+                {
+                    "text": "Web Design"
+                }
+            ]
+        
+        },
+        {
+            "questionText": "DNS stands for ______",
+            "options": [{
+                    "text": "Decimal number system"
+                  
+                },
+                {
+                    "text": "Domain name server "
+                },
+                {
+                    "text": "Domain name system",
+                    "correct": true
+                },
+                {
+                    "text": "Domain number system"
+                }
+            ]
+        
+        },
+        {
+            "questionText": "The details of domain names are available in _____ data base",
+            "options": [{
+                    "text": "WHOIS",
+                    "correct": true
+                },
+                {
+                    "text": "ICANN "
+                },
+                {
+                    "text": "CMS"
+                },
+                {
+                    "text": "VPS"
+                }
+            ]
+        
+        },
+        {
+            "questionText": ".  ______provides web hosting services free of charge",
+            "options": [{
+                    "text": "Dedicated hosting"
+                  
+                },
+                {
+                    "text": "Server hosting"
+                },
+                {
+                    "text": "Free hosting",
+                    "correct": true
+                },
+                {
+                    "text": "Live hosting"
+                }
+            ]
+        
+        },
+        {
+            "questionText": ".___________CMS Stands for  ",
+            "options": [{
+                    "text": "Content Monitoring System"
+                    
+                },
+                {
+                    "text": "Consent Management System "
+                },
+                {
+                    "text": "coversation Management service"
+                },
+                {
+                    "text": "Content Management System",
+                    "correct": true
+                }
+            ]
+        
+        },
+        {
+            "questionText": "The memory is allocated before the execution of the program  ",
+            "options": [{
+                    "text": "None of these"
+                    
+                },
+                {
+                    "text": "Virtual data structures. "
+                },
+                {
+                    "text": "Dyanmic data structures"
+                },
+                {
+                    "text": "static data structures ",
+                    "correct": true
+                }
+            ]
+        
+        }
+        
+    ]
+}
